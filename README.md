@@ -6,6 +6,8 @@ Then, I imported my database to Pandas.
 
 First I created a histogram using the salaries table.
 
+https://github.com/AnitaRyn/sql-challenge/blob/main/Histogram.JPG
+
 Then I merged the employees table with salaries table using the employee number.  I comibed this table with the tiles table. This required renaming the  title_id column to emp_title_column in order for the merge to be possible.
 
 This final dataset I grouped by titles, calculated mean for the salaries per each title, and created a bar chart. 
