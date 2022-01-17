@@ -12,6 +12,5 @@ Then I merged the employees table with salaries table using the employee number.
 
 This final dataset I grouped by titles, calculated mean for the salaries per each title, and created a bar chart. 
 
-![alt text](https://(https://github.com/AnitaRyn/sql-challenge/blob/main/Average_salary.JPG)
-
+![alt text](https://)
 
